@@ -38,7 +38,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/pumba-dev">
+      <a href="https://github.com/pumba-dev" target="_blank" >
         <img src="https://static.wikia.nocookie.net/disneypt/images/c/cf/It_means_no_worries.png/revision/latest?cb=20200128144126&path-prefix=pt" width="100px;" alt="Foto do PumbaDev no GitHub"/><br>
         <sub>
           <b>Eu Mesmo</b>
@@ -46,7 +46,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/jurandirjr1/">
+      <a href="https://www.instagram.com/jurandirjr1/" target="_blank">
         <img src="https://instagram.fthe5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/15877365_371810883182814_4812238691680387072_a.jpg?_nc_ht=instagram.fthe5-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Ufibm4qXzGoAX9u6Emk&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT81XJFO0gswDYbvcpi_zOR6gq9SIDyDMfrFWJs4kcUivA&oe=61EB3DF9&_nc_sid=7bff83" width="100px;" alt="Foto do Dr. Jurandir Lacerda"/><br>
         <sub>
           <b>Dr. Jurandir Lacerda</b>
@@ -54,7 +54,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/andr%C3%A9-soares-35b30216/">
+      <a href="https://www.linkedin.com/in/andr%C3%A9-soares-35b30216/" target="_blank">
         <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHbYHmlWpZxLQ/profile-displayphoto-shrink_800_800/0/1516584525092?e=1648080000&v=beta&t=S0bgmrWlXbaOggW5rv8-vZ0CC_te76eo-hEHyBz_9nk" width="100px;" alt="Foto do Prof. André Soáres"/><br>
         <sub>
           <b>Prof. André Soáres</b>
