@@ -2,6 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pumba-dev/adein-to-sdm?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/pumba-dev/adein-to-sdm?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/pumba-dev/adein-to-sdm?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/pumba-dev/adein-to-sdm?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/github/issues-pr/pumba-dev/adein-to-sdm?style=for-the-badge)
 
